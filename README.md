@@ -1,8 +1,20 @@
 # n8n-nodes-verticcrm
 
+[![npm version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/stgacessos/n8n-nodes-verticcrm/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![n8n](https://img.shields.io/badge/n8n-community-FF6D5A.svg)](https://n8n.io)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue.svg)](https://www.typescriptlang.org/)
+
 Este é um node customizado para [n8n](https://n8n.io) que permite integração completa com o **VerticCRM** - uma plataforma CRM moderna construída com Supabase.
 
 ![VerticCRM Logo](nodes/VerticCrm/verticcrm.svg)
+
+## 📚 Documentação Rápida
+
+- 🚀 **[Quick Start](QUICKSTART.md)** - Teste em 5 minutos
+- 📦 **[Instalação](INSTALLATION.md)** - Guia completo de instalação
+- 💡 **[Exemplos](EXAMPLES.md)** - 10+ workflows práticos
+- ✅ **[Checklist](CHECKLIST.md)** - Status e roadmap
 
 ## 🚀 Funcionalidades
 
